@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  background-color: #009688;
+  color: #fff;
+}
+
+.profile-photo {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-top: 20px;
+}
+
+.about {
+  background-color: #f0f0f0;
+  padding: 40px 20px;
+}
+
+.technicalskills {
+  background-color: #fff;
+  padding: 40px 20px;
+}
+
+.achievements {
+  background-color: #fff;
+  padding: 40px 20px;
+}
+
+.technicalskill {
+  margin-bottom: 20px;
+}
+
+.achievement {
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  background-color: #009688;
+  color: #fff;
+  padding: 20px;
+}
+
+a {
+  color: #009688;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
